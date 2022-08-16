@@ -2,14 +2,14 @@
 * @feitianmao24
 
 #A目录下的owner
-/A/ @USER001
+/A/ @yuehuhu
 
 #B目录下的owner
-/B/ @albert-lv @feitianmao24
+/B/  @feitianmao24  @yuehuhu
 
 
 #README.md的owner
-README.md @feitianmao24 @albert-lv
+README.md  @yuehuhu
 
 # .md文件的owner
 *.md @feitianmao24
