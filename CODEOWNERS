@@ -1,15 +1,1 @@
-#所有文件的owner
-* @Elaine1233
-
-#A目录下的owner
-/A/ @yuehuhu
-
-#B目录下的owner
-/B/  @Elaine1233  @yuehuhu
-
-
-#README.md的owner
-README.md  @yuehuhu
-
-# .md文件的owner
-*.md @Elaine1233
+test
